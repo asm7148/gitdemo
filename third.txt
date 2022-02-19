@@ -1,1 +1,2 @@
 I am in third file and I want to addd it in repo
+I want to push this in git repo
